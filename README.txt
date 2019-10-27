@@ -1,0 +1,1 @@
+This web scraping assignment required me to scrape several web pages and extract both images and text. I then consolidated these into a page. I received help from Brent Hillen and Julia Smith. 
